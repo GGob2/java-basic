@@ -1,14 +1,23 @@
 package inheritance_6;
 
 class Mother {
+    int motherAge = 50;
+
     public Mother(){
         System.out.println("welcome to super class");
     }
+
 }
 
 class Son extends Mother{
+    int sonAge = 23;
+
     public Son(){
         System.out.println("welcome to sub class");
+    }
+
+    public void printMotherAge() {
+        System.out.println("Mother's Age : " + super.motherAge);
     }
 }
 public class Study_6 {
@@ -16,5 +25,6 @@ public class Study_6 {
         Mother mother = new Mother();
         System.out.println("~~~~~~~~~~~~~~~~~~");
         Son son = new Son();
+        son.printMotherAge();
     }
 }
