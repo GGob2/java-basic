@@ -1,4 +1,4 @@
-package inheritance_6;
+package inheritance_6.inheritance_6_1;
 
 class Mother {
     int motherAge = 50;

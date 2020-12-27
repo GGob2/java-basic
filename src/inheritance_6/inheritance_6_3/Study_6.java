@@ -1,4 +1,4 @@
-package inheritance_6_3;
+package inheritance_6.inheritance_6_3;
 
 class Dog extends Animal{
 

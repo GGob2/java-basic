@@ -1,4 +1,4 @@
-package inheritance_6_6;
+package inheritance_6.inheritance_6_6;
 
 class Animal {
     public void speak() {

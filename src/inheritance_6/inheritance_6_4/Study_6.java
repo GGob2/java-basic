@@ -1,4 +1,4 @@
-package inheritance_6_4;
+package inheritance_6.inheritance_6_4;
 
 class Present extends Last {
 /*    @Override
