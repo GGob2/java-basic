@@ -10,5 +10,6 @@ java_study with whiteship = https://github.com/whiteship/live-study
  - [:fire: 5주차 과제 정리:fire:](https://velog.io/@ggob_2/java-study-5)
  - [:fire: 6주차 과제 정리:fire:](https://velog.io/@ggob_2/java-study-6)
  - [:fire: 7주차 과제 정리:fire:](https://velog.io/@ggob_2/java-study-7)
- - [:fire: 8주차 과제 정리:fire:](https://velog.io/@ggob_2/java-study-8) 
+ - [:fire: 8주차 과제 정리:fire:](https://velog.io/@ggob_2/java-study-8)
+ - :fire: 9주차 과제 정리:fire: -- 참여 X
  
